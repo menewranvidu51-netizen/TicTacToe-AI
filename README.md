@@ -41,7 +41,7 @@ TicTacToe-AI<p>
 1. Ensure **Python 3.6+** is installed.
 2. Clone the repository:
 bash
-git clone https://github.com/yourusername/TicTacToe-AI.git
+git clone https://github.com/menewranvidu51-netizen/TicTacToe-AI.git
 cd TicTacToe-AI
 
 ---
